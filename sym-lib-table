@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ZXTR2105F")(type "KiCad")(uri "${KIPRJMOD}/ZXTR2105F.kicad_sym")(options "")(descr ""))
+  (lib (name "SSI2131")(type "KiCad")(uri "${KIPRJMOD}/SSI2131.kicad_sym")(options "")(descr ""))
+)

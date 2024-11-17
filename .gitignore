@@ -1,0 +1,20 @@
+# Ignore everything...
+*
+
+# except for the .gitignore itself...
+!.gitignore
+
+# and KiCAD project files...
+!*.kicad_pro
+!*.kicad_sch
+!*.kicad_pcb
+
+# and symbol libraries...
+!*.kicad_sym
+!sym-lib-table
+
+# a 3D model render...
+!3d-model.png
+
+# and a README.
+!README.md
